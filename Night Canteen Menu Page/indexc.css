@@ -104,3 +104,12 @@ margin-left: 25px;
     position: absolute;
     margin-left: 700px;
   }
+#order-btn{
+    color: red;
+    background-color:yellow;
+    height: 50px;
+    width: 100px;
+    position: relative;
+    margin-top: 50px;
+    font-size: 15px;
+  }
